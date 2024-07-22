@@ -1,0 +1,19 @@
+•1 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/Boat.java
+ text:line: 12 column: column:3 
+Missing a Javadoc comment.
+
+Ÿ0 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/MemberRegistry.java
+—0 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/Member.java
+”0 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/App.java
+œ2 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/FileManager.java
+text:line: 22 column: 
+<Javadoc tag '@param' should be preceded with an empty line.
+
+text:line: 60 column: 
+<Javadoc tag '@param' should be preceded with an empty line.
+
+œ1 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/BoatClubApp.java
+text:line: 165 column: 
+<Javadoc tag '@param' should be preceded with an empty line.
+
+0 CheckStyle Issues in /Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/BoatRegistry.java

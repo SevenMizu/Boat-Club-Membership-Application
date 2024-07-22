@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/Boat.java">
+<error line="12" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/MemberRegistry.java">
+</file>
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/Member.java">
+</file>
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/App.java">
+</file>
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/FileManager.java">
+<error line="22" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
+<error line="60" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
+</file>
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/BoatClubApp.java">
+<error line="165" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
+</file>
+<file name="/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/src/main/java/assignment4/BoatRegistry.java">
+</file>
+</checkstyle>

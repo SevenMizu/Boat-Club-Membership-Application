@@ -1,0 +1,7 @@
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/FileManager.class
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/MemberRegistry.class
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/Member.class
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/BoatRegistry.class
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/BoatClubApp.class
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/Boat.class
+/Users/oooooo/Documents/Coding/Java /Boatclub Branch RSVP Application/a4/assignment-4/app/build/classes/java/main/assignment4/App.class
